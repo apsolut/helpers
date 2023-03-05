@@ -42,8 +42,8 @@ Helpers for Development (Tools, Software, Helpers)
 #### Tailwind
 
 - [starter](tailwind/README.md)
-- [local-ssl](tailwind/specify-path-for-files.md)
-- [local-ssl](tailwind/starter-tailwind-config.md)
+- [files to watch](tailwind/specify-path-for-files.md)
+- [starter config](tailwind/starter-tailwind-config.md)
 
 
 
