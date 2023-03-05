@@ -44,3 +44,11 @@ Helpers for Development (Tools, Software, Helpers)
 - [starter](tailwind/README.md)
 - [local-ssl](tailwind/specify-path-for-files.md)
 - [local-ssl](tailwind/starter-tailwind-config.md)
+
+
+
+
+#### Worth Mentioning
+- https://dev.to/jbranchaud/how-i-built-a-learning-machine-45k9
+- https://todayilearned.io/
+- 
