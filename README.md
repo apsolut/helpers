@@ -44,10 +44,17 @@ Helpers for Development (Tools, Software, Helpers)
 #### Hubspot
 
 - [HubDB](hubspot/hubdb.md)
+- [HubL](hubspot/hubl.md)
+- [Hubl assets](hubspot/hub-assets.md)
 - [Hubl DND](hubspot/hub-dnd.md)
 - [Hubl fields](hubspot/hub-fields.md)
 - [Hubl filters](hubspot/hub-filters.md)
+- [Hubl local cli](hubspot/hub-local-cli.md)
+- [Hubl macros](hubspot/hub-macros.md)
+- [Hubl module markup](hubspot/hub-module-markup.md)
 - [Hubl modules](hubspot/hub-modules.md)
+- [Hubl templates](hubspot/hub-templates.md)
+- [Hubl theme options](hubspot/hub-theme-options.md)
 
 #### Powershell
 
