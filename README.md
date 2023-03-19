@@ -54,6 +54,7 @@ Helpers for Development (Tools, Software, Helpers)
 - [Hubl module markup](hubspot/hub-module-markup.md)
 - [Hubl modules](hubspot/hub-modules.md)
 - [Hubl templates](hubspot/hub-templates.md)
+- [Hubl templates](hubspot/hub-templates-sections.md)
 - [Hubl theme options](hubspot/hub-theme-options.md)
 
 #### Powershell

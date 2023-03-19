@@ -1,5 +1,6 @@
 #### HubL Drag n Drop
-- [AAA](AAA)
+- [Drag and Drop Templates](https://developers.hubspot.com/docs/cms/building-blocks/templates/drag-and-drop-templates)
+- [Drag and Drop Sections](https://developers.hubspot.com/docs/cms/building-blocks/templates/drag-and-drop-areas)
 
 
 ```js

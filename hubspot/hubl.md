@@ -1,6 +1,12 @@
 #### HubL 
 
 
+
+#### developerMode
+```js
+?developerMode=true
+```
+
 #### Statements
 
 ```js
