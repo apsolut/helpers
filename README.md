@@ -1,5 +1,11 @@
 # Development-Helpers
 Helpers for Development (Tools, Software, Helpers)
+My version of TIL (Today I Learned) for development tools, software, helpers, etc.
+```js 
+most of the time I was using snippet tools, gists
+but this is quite more logical and easy to use, 
+with good organization and structure
+```
 
 ### Categories
 * [DEV](#ddev)
