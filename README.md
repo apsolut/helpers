@@ -1,6 +1,6 @@
-# Development-Helpers
-Helpers for Development (Tools, Software, Helpers)
-My version of TIL (Today I Learned) for development tools, software, helpers, etc.
+##### Development-Helpers
+### My version of TIL (Today I Learned) for development tools, software, helpers, snippets etc.
+
 ```js 
 most of the time I was using snippet tools, gists
 but this is quite more logical and easy to use, 
