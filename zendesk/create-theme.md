@@ -15,6 +15,6 @@ https://support.zendesk.com/hc/en-us/sections/4405298906266
 - [Localizing help center](https://support.zendesk.com/hc/en-us/articles/4408834328090-Localizing-help-center-content)
 - [Change design based on Language](https://support.zendesk.com/hc/en-us/articles/4408894121754-Changing-your-help-center-design-based-on-your-end-user-language )
    ```shell
-   # l18n 
-     {{dc.custom_message}}
+   # l18n  {{dc.custom_message}} 
+    {{dc 'custom_message'}}
    ```
