@@ -19,4 +19,16 @@
 "background": {
     "service_worker": "js/background.js"
 }
+
+//Manifest v2
+"permissions": [
+    "contentSettings",
+    "https://regiondogmbh.zendesk.com/*"
+],
+    
+//Manifest v3
+"host_permissions": [
+    "https://extension.ninja/*"
+],
+
 ```
