@@ -19,7 +19,8 @@
 "background": {
     "service_worker": "js/background.js"
 }
-
+// Permissions
+// https://developer.chrome.com/docs/extensions/reference/permissions/
 //Manifest v2
 "permissions": [
     "contentSettings",
