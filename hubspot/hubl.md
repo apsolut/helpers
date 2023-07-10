@@ -1,5 +1,5 @@
 #### HubL 
-
+- [Module Fields](https://developers.hubspot.com/docs/cms/building-blocks/module-theme-fields)
 
 
 #### developerMode
@@ -20,6 +20,7 @@
 
 {{ my_variable }}
 {{ my_details.name }}
+{{ item.heading }}
 
 ```    
 
