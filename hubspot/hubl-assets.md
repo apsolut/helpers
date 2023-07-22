@@ -1,5 +1,5 @@
 #### HubL Assets
-
+[4 Ways to add JS](https://community.hubspot.com/t5/CMS-Development/What-is-the-difference-of-these-4-ways-to-add-javascript-files/m-p/590210)
 
 
 ```js
