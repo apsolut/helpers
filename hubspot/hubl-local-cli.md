@@ -10,5 +10,6 @@ hs watch --initial-upload
 
 
 ```js
-
+hs fetch --account=<name> <src> [dest]
+hs filemanager fetch --account=<name> <src> [dest]
 ```    
