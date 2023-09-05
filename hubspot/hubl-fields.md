@@ -11,72 +11,14 @@
     "required": false,
     "type": "alignment",
     "default": {
-    "horizontal_align": "CENTER",
-        "vertical_align": "TOP",
+     "horizontal_align": "CENTER",
+     "vertical_align": "TOP",
     }
 }
 
-// background image field
-{
-    "name": "bg_image",
-    "label": "Background image",
-    "required": false,
-    "type": "backgroundimage",
-    "default": {
-    "src": "https://example.com/img.png",
-        "background_position": "MIDDLE_CENTER",
-        "background_size": "cover"
-    }
-
-}
 
 
-// Boolean field
-{
-    "name" : "is_teaser_img",
-    "label" : "Enable Teaser Image",
-    "required" : false,
-    "locked" : false,
-    "type" : "boolean",
-    "display":"checkbox",
-    "inline_help_text" : "Shows Teaser image when toggled on",
-    "help_text" : "Teaser images are used to help provide visual context to the post.",
-    "default" : false
-}
 
-// Choice field
-{
-    "name" : "img_position",
-    "label" : "Image Position",
-    "required" : false,
-    "locked" : false,
-    "multiple":"true",
-    "display" : "select",
-    "choices" : [ [ "img--left", "Image Left - Text Right" ], [ "img--right", "Text Left - Image Right" ] ],
-    "type" : "choice",
-    "default" : "img--left"
-}
-// Image field
-{
-    "name" : "image_field",
-    "label" : "Image",
-    "required" : false,
-    "locked" : false,
-    "responsive" : true,
-    "resizable" : true,
-    "show_loading" : false,
-    "type" : "image",
-    "default" : {
-    "size_type" : "exact",
-        "src" : "",
-        "alt" : "image-alt-text",
-        "loading" : "lazy",
-        "width" : 128,
-        "height" : 128,
-        "max_width" : 128,
-        "max_height" : 128
-}
-}
 ```
 ```js
 // json video fields
@@ -124,6 +66,12 @@
     width={{ max_width }}
 %}
 {% endif %}
+
+```
+
+```js
+// background-color from color picker
+  {% if module.text_background %} style="background-color:rgba({{ module.text_background.color|convert_rgb}} , {{  module.text_background.opacity / 100}})" {% endif %}
 
 ```
 

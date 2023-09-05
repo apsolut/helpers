@@ -2,11 +2,16 @@
 
 #### 2023
 https://ddev.readthedocs.io/en/latest/users/quickstart/#wordpress
-
+```sh
+    # Start
+    ddev config
+    ddev start
+    # Download and install wp
     ddev wp core download
     # Launch in browser to finish installation
     ddev launch
     ddev launch wp-admin/
+```
 
 
 
