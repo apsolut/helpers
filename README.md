@@ -1,3 +1,7 @@
+# Moved here:
+- https://github.com/apsolut/documentation-helper 
+
+
 ##### Development-Helpers
 ### My version of TIL (Today I Learned) for development tools, software, helpers, snippets etc.
 
